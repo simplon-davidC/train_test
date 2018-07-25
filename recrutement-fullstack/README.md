@@ -1,16 +1,3 @@
-# Tests recrutement pour CDI fullstack
-
-ATTENTION pour chaque exercice de la phase 1 et 2, merci de faire un répertoire par exo. Pour rappel, nous n'imposons pas de langage de programmation. Google est autorisé.
-
-## Phase -1
-_A faire en 5 min max_
-Notre gitlab vous a envoyé un mail, il faut donc cloner vos repos pour être pret.
-Ne pas oublier de commiter apres chaque exo.
-
-## Phase 0
-_A faire en 30 min max_   
-Objectif : aller le plus loin possible dans le jeu, pendant 30 min
-
 ## Phase 1
 _A faire en 30 min max_   
 
